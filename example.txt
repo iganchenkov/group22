@@ -1,0 +1,13 @@
+Structure of bag report
+1. ID
+2. Summary
+3. Project
+4. Component
+5. Version
+6. Severity
+7. Priority
+8. Steps to reproduce
+9. Expected result
+10. Actual result
+11. Attachment
+12. Environment
